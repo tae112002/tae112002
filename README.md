@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 A Back-End Developer from South Korea
 
 ### Languages & Tool
-[![My Skills](https://skillicons.dev/icons?i=github,java,spring,nodejs,react,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,react,js,html,css,github&theme=dark)](https://skillicons.dev)
